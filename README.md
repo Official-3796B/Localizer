@@ -20,9 +20,9 @@ No clue if it works, dont hold me to this. Coded this without a bot. Pretty much
 Put .cpp in /src and .h in /include. Create the localizer object. Set the starting point. Get the position when u need it (returns a pose). 
 
 # Roadmap
--[x] Initial Logic
--[x] File Management
--[] Testing
--[] Better Instructions
--[] Full Release
--[] ???
+- [x] Initial Logic
+- [x] File Management
+- Testing
+- Better Instructions
+- Full Release
+- Anything Else?
