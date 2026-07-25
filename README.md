@@ -6,7 +6,6 @@
 ![Issues](https://img.shields.io/github/issues/Official-3796B/Localizer)
 ![VEX](https://img.shields.io/badge/Platform-VEX%20V5-red)
 ![PROS](https://img.shields.io/badge/Built%20With-PROS-blue)
-![LemLib](https://img.shields.io/badge/Extension-LemLib-green)
 
 Thats pretty cool. Just saw the top thingies on someone else github, search it up and boom now we have it. 
 
