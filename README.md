@@ -21,7 +21,8 @@ Put .cpp in /src and .h in /include. Create the localizer object. Set the starti
 # Roadmap
 - [x] Initial Logic
 - [x] File Management
-- Testing
-- Better Instructions
-- Full Release
-- Anything Else?
+- [x] Sensor Fusion
+- [ ] Testing
+- [ ] Better Instructions
+- [ ] Full Release
+- [ ] Anything Else?
